@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "poblados_milagro",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "fcode": "AL105", "descripcio": "Concentración continua ocupada de tiendas  o ligeras estructuras fijas (por ejemplo: chozas) que sirven como residencia", "nam": "Chobo", "na2": null, "ppt_desc": "Información no disponible", "txt": "Cabecera Parroquial", "ppt": -1 }, "geometry": { "type": "Point", "coordinates": [ -79.633971335706931, -2.139332637521595 ] } },
+{ "type": "Feature", "properties": { "id": 2, "fcode": "AL105", "descripcio": "Concentración continua ocupada de tiendas  o ligeras estructuras fijas (por ejemplo: chozas) que sirven como residencia", "nam": "MILAGRO", "na2": null, "ppt_desc": "Información no disponible", "txt": "Cabecera Cantonal", "ppt": -1 }, "geometry": { "type": "Point", "coordinates": [ -79.591607905156849, -2.130291466311216 ] } },
+{ "type": "Feature", "properties": { "id": 3, "fcode": "AL105", "descripcio": "Concentración continua ocupada de tiendas  o ligeras estructuras fijas (por ejemplo: chozas) que sirven como residencia", "nam": "Cruce de Venecia", "na2": null, "ppt_desc": "Información no disponible", "txt": "Cabecera Parroquial", "ppt": -1 }, "geometry": { "type": "Point", "coordinates": [ -79.517977181335141, -2.18255114777973 ] } },
+{ "type": "Feature", "properties": { "id": 4, "fcode": "AL105", "descripcio": "Concentración continua ocupada de tiendas  o ligeras estructuras fijas (por ejemplo: chozas) que sirven como residencia", "nam": "Mariscal Sucre", "na2": "Huaques", "ppt_desc": "Información no disponible", "txt": "Cabecera Parroquial", "ppt": -1 }, "geometry": { "type": "Point", "coordinates": [ -79.504287057286703, -2.112829094907722 ] } },
+{ "type": "Feature", "properties": { "id": 5, "fcode": null, "descripcio": null, "nam": null, "na2": null, "ppt_desc": null, "txt": null, "ppt": null }, "geometry": null }
+]
+}
